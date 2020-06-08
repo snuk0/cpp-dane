@@ -1,0 +1,14 @@
+ { 
+   "numer":"1"
+   "imie":"Slawomir"
+   "nazwisko":"Nowak"
+   "pesel":"53289654261"
+   "imie":"Zamkowa"
+},
+ { 
+   "numer":"2"
+   "imie":"Mariusz"
+   "nazwisko":"Kowalski"
+   "pesel":"54325412312"
+   "imie":"Norweska"
+},
